@@ -31,6 +31,7 @@
    - AJAX
    - REST
    - OOPS Concept
+
 ## Workflow 
    - Tortoise SVN
    - NodeJS
@@ -47,6 +48,7 @@
    - TFS
    - Jenkins
    - Quality Center
+
 ## Editor
    - Sublime
    - Notepad ++
@@ -69,8 +71,6 @@
    - ECMA Script 6
    - ReactJS
    - Angular 2.0
-
-## Certification
 
 ## Education
   - Master in Computer Application from RGPV Bhopal 
